@@ -2,4 +2,4 @@
 
 Problem: Must update portfolio page to include Bamazon app.
 
-[Link to Deployed Project](https://jrol.github.io/Updated-Portfolio-Bamazon/)
+[Link to Updated Portfolio - Bamazon](https://jrol.github.io/Updated-Portfolio-Bamazon/)
